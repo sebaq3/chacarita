@@ -1,0 +1,26 @@
+.navbar {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px;
+    width: 100%;
+  }
+  
+  .navbar-list {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+  }
+  
+  .navbar-item {
+    margin-right: 10px;
+  }
+  
+  .navbar-link {
+    color: white;
+    text-decoration: none;
+  }
